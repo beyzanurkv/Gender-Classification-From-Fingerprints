@@ -1,5 +1,6 @@
 
 Gender Classification from Fingerprints
+
 This Notebook implements a CNN model to predict gender from fingerprint images using the SOCOFing dataset on Kaggle.
 
 Features
